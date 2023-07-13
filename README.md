@@ -21,6 +21,6 @@ The dataset is provided in JSON format, with each file containing the following 
 
 - x_label: The label for the x-axis of the data.
 - y_label: A list of lists containing the labels for the y-axis.
-- data: A list containing the data points. Each data point consists of a dictionary with the x_label and corresponding values for the y-axis.
+- data: A dictionary where each key has a list of values for that specific column on data
 - title: The title or description of the dataset.
 - summary: A summary of the dataset providing key information and statistics related to the voting intention.
