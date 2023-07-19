@@ -2,7 +2,7 @@
 
 Authors: Raian Rahman, Rizvi Hasan, Abdullah Al Farhad, Md Tahmid Rahman Laskar, Md. Hamjajul Ashmafee, Abu Raihan Mostofa Kamal
 Accepted in: [The 36th Canadian Conference on Artificial Intelligence (CANAI)](https://www.caiac.ca/en/conferences/canadianai-2023/home)
-Paper link: [Link]()
+Paper link: [Link](https://caiac.pubpub.org/pub/ujhjycsw)
 
 ### Updates
 
